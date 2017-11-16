@@ -1,0 +1,27 @@
+.picture{
+  width: 20%;
+  height: 20%;
+
+}
+.content-header{
+  border-color: blue;
+  border-bottom: solid;
+}
+.content-header-icon{
+}
+.content-header-title{
+}
+h1.title{
+  font-style: italic;
+  color: #1239A2;
+}
+body{
+   text-align: center;
+}
+.short-description{
+  text-align: left;
+}
+.eng{
+  font-style: italic;
+  font-weight: bold;
+}
